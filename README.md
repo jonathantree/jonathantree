@@ -2,4 +2,4 @@ My background is in marine geology and geophysics. Though I am still an active m
 
 As a father of two young children, I have become inspired to be a part of something that contributes positively to our planet and all of its inhabitants. By expanding my practical skills in the world of Data Science and Analytics, I am currently looking for a position that will allow me to apply my personal interests, assets, and experience to this goal.
 
-My passion tends to lie with data visualization and story telling. I enjoy the process of generating beautiful figures that communicate the story of the data. I think of data visualization as an artform and enjoy casual exploration of the theory as a whole.
+My passion tends to lie with data visualization and storytelling. I enjoy the process of generating beautiful figures that communicate the story of the data. I think of data visualization as an artform and enjoy casual exploration of the theory as a whole.
